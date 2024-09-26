@@ -1,0 +1,11 @@
+* {
+    font-family: Arial;
+}
+
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 235, 168);
+
+}
